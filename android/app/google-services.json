@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410139493121",
+    "project_id": "melanospy-6fe2a",
+    "storage_bucket": "melanospy-6fe2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410139493121:android:9bef7ae10158832fdd5100",
+        "android_client_info": {
+          "package_name": "com.example.melanospy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClsRN3PWTh3L80Iw2TvMMH4mmRG-JXcEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
